@@ -1,0 +1,39 @@
+{
+  "lugares": {
+    "3puntos": {
+      "name": "Club 3 Puntos",
+      "direccion": "Juan Agustín García 4774",
+      "maps": "https://maps.app.goo.gl/BhbbjiCJNJoF2jZe9",
+      "wpp": "1128976576",
+      "phone": "1128976576"
+    },
+    "lumberjack": {
+      "name": "Lumberjack",
+      "direccion": "Av. Álvarez Jonte 6305",
+      "maps": "https://maps.app.goo.gl/eqs7ggdQ8qLy5Xks5",
+      "wpp": "1160920444",
+      "phone": "1160920444"
+    },
+    "villaluro": {
+      "name": "Complejo Villa luro",
+      "direccion": "Bacacay 5640",
+      "maps": "https://maps.app.goo.gl/WBMoqFtru7YKt5nt5",
+      "wpp": "1173696335",
+      "phone": "1173696335"
+    },
+    "pipa": {
+      "name": "Pipa gancedo",
+      "direccion": "Nogoyá 5030",
+      "maps": "https://maps.app.goo.gl/WBMoqFtru7YKt5nt5",
+      "wpp": "1145682658",
+      "phone": "1145682658"
+    },
+    "parthenon": {
+      "name": "Parthenon",
+      "direccion": "Túpac Amaru 1030",
+      "maps": "https://maps.app.goo.gl/mGU9SSDvDjAYKi5J7",
+      "wpp": "1176448468",
+      "phone": "01146361650"
+    }
+  }
+}
