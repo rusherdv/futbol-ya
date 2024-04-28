@@ -93,6 +93,9 @@ function App() {
           </div>
         </div>
       ))}
+      <p className="text-white text-sm font-[inter] sm:absolute sm:bottom-4 sm:mt-0 mt-3">
+        by rusher
+      </p>
     </div>
   );
 }
